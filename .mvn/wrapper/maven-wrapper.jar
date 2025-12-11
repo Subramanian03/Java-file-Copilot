@@ -1,0 +1,8 @@
+This is a placeholder for the Maven Wrapper jar.
+To generate the real Maven Wrapper (including a valid maven-wrapper.jar), run locally:
+
+    mvn -N io.takari:maven:wrapper
+
+Or use the project's CI to produce the wrapper. Do NOT check secrets into the repo.
+
+Replace this file with the real binary produced by the wrapper generation step.
